@@ -1,0 +1,19 @@
+{
+    "name": "Maker's Dream",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "87Wm61GDGMmYV9vj8ZFUEHpH8ZWK9YPCFjenYeiV8RsC",
+          "share": 100
+        }
+      ]
+    }
+  }
